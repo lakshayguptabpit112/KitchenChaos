@@ -62,3 +62,7 @@ Assets/AddressableAssetsData/*/*.bin*
 # Visual Scripting Generated
 # =========================
 Assets/Unity.VisualScripting.Generated/
+Library/ 
+Temp/ 
+Logs/ 
+.DS_Store 
